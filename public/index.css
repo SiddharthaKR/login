@@ -1,0 +1,16 @@
+body{
+    background-color: blue;
+}
+.navbar{
+    background-color: orange;
+    width: 100%;
+}
+.right{
+    background-color: white;
+    width: 30%;
+    margin: 1rem;
+}
+.left{
+    width: 54%;
+    margin: 2rem;
+}
